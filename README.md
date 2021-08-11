@@ -1,5 +1,5 @@
 # smart-teaching-using-human-FER-model
-FER- facial emotion Recognition(FER) model
+FER- Facial Emotion Recognition(FER) model
 
 Keep ready of the following files in a folder in your system
 
