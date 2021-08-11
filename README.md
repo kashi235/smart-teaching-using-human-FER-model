@@ -58,6 +58,8 @@ download the datasset from this link [https://www.kaggle.com/deadskull7/fer2013]
 go to your virtual environment in the terminal(linux)/command prompt(windows), and type "testthis.py" this will open a new window , prompt permission to switch on
 camera if asked and you can see the emotions getting detected,similarly run "basic_backend_code.py".
 
+hange the models in the "basic_backend_code.py"file if necessary (for ref: models are of the format .h5)
+
 install "IP webcam" app from your mobile(android)
 connect both you mobile and laptop/desktop to a single data connection network/wifi.
 
