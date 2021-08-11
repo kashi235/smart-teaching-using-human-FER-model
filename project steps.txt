@@ -1,0 +1,54 @@
+Keep ready of the following files in a folder
+
+1. testthis.py
+2. basic_backend_code.py
+3.server.py
+4.activate_this.py
+
+5. team dominators final.ipynb
+6. project notebook.ipynb
+
+save these models too 
+1. fer.h5
+2. fer.json
+3. EmotionDetectionModel.h5
+4.haarcascade_frontalface_default
+5.fer_backup.h5
+6. fer_backup.json
+
+
+dataset : FER2013 dataset. (" upload this to google drive") 
+
+
+install the anaconda navigator from this site "https://repo.anaconda.com/archive/Anaconda3-2021.05-Windows-x86_64.exe"
+
+go to google colab platform "https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index"
+>file>upload motebok> upload the file no 5. "team dominators.ipynb" >open it >   Run time >   change Run time type> select GPU> then come out of that> Run all
+
+mount the drive  ( same account shld be used in which the dataset is been upoaded ), when asked in the second line of code with the authorisation code/link which will be displayed while running
+
+once the training of epoches is done, run furthur 4-5 lines of code
+
+
+open anaconda prompt shell(if installed)
+type the following commands one by one wait for them to install fully (WHEN ASKED PRESS YES DURING INSTALLATION)
+
+1. conda create -n majorproenv python=3.6
+2. conda activate majorproenv
+3. conda install tensorflow
+4. conda install keras
+5. conda install pandas
+6. conda install opencv
+7. conda install nb_conda
+8. conda install flask 
+
+
+(majorproenv) C:\Users\dell>jupyter notebook
+
+
+
+
+
+  
+
+
